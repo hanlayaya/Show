@@ -1,0 +1,37 @@
+
+.title-con-right span{
+	color:#6098e2;
+}
+.about4_top{
+	width: 100%;
+	margin-top: 70px;
+}
+.about4_top_left,.about4_top_right{
+	width: 50%;
+	float: left;
+	height: 300px;
+	line-height: 60px;
+}
+.about4_top_right p.first{
+	color:#05c300;
+	font-size: 25px;
+}
+.about4_top_right p.second{
+	color:#05c300;
+	font-size: 25px;
+	margin-left: 235px;
+}
+.about4_top_right p.third{
+	font-size: 20px;
+}
+.about4_top_right p.forth{
+	font-size: 20px;
+	margin-left: 200px;
+}
+.about4_top_left img{
+	margin-left: 150px;
+}
+.about4_bottom img{
+	width: 100%;
+	margin-top: 50px;
+}
